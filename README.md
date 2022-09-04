@@ -1,15 +1,23 @@
 **Using DESim to Simulate FPGA Projects**
 
 Pre-Requisites:
-•	Intel Quartus Prime
-•	Questa*-Intel Starter Edition
-  o	https://www.intel.com/content/www/us/en/software-kit/736572/intel-quartus-prime-lite-edition-design-software-version-21-1-1-for-windows.html?
-•	Questa*-Intel License
-  o	https://www.intel.com/content/www/us/en/docs/programmable/683472/22-1/and-software-license.html
-•	DESim
-  o	https://github.com/fpgacademy/DESim
+
+• Intel Quartus Prime
+
+• Questa*-Intel Starter Edition
+
+https://www.intel.com/content/www/us/en/software-kit/736572/intel-quartus-prime-lite-edition-design-software-version-21-1-1-for-windows.html?
+  
+• Questa*-Intel License
+
+https://www.intel.com/content/www/us/en/docs/programmable/683472/22-1/and-software-license.html
+  
+• DESim
+
+https://github.com/fpgacademy/DESim
 
 **Preparing the Sample Project**
+
 This sample project shows a two-digit hexadecimal display driven by an 8-bit input.
 A single module, named BinToHex, is created to accept a 4-bit input to display a hexadecimal seven-segment output. To complete the project, two instances of BinToHex is created to provide the necessary two hexadecimal displays with an 8-bit input. The following figure shows the Verilog code for BinToHex.v and Top.v.
 
