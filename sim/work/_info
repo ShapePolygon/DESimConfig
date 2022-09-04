@@ -1,0 +1,90 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11f vlog 2021.2 2021.04, Apr 14 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/Programs/DESim/demos/questa/verilog/addern/sim
+T_opt
+!s110 1661921913
+Vzl36ZhB;_QQBBSnkj_0lJ0
+04 2 4 work tb fast 0
+=1-88d7f67a1f14-630eea79-108-2840
+!s124 OEM10U3 
+o-quiet +acc -auto_acc_if_foreign -work work -Lf 220model -Lf altera_mf_ver -Lf verilog
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.2;73
+vAddern
+Z2 !s110 1661921910
+!i10b 1
+!s100 9kf9m7Z0Q0=gT:2APHCk<1
+IcNRaUlD]6MOlRh0U4faeB3
+R0
+Z3 w1661178126
+8../Addern.v
+F../Addern.v
+!i122 1
+L0 8 11
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2021.2;73
+r1
+!s85 0
+31
+Z6 !s108 1661921910.000000
+Z7 !s107 ../Top.v|../Addern.v|
+Z8 !s90 -nolock|../Addern.v|../Top.v|
+!i113 0
+Z9 o-nolock -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@addern
+vtb
+R2
+!i10b 1
+!s100 ^b<bS8PVk2e;6IaRSGA:U3
+I^OXJTjcL<6NCTMTa0HBXT0
+R0
+R3
+8../tb/tb.v
+F../tb/tb.v
+!i122 0
+L0 9 41
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 ../tb/tb.v|
+!s90 -nolock|../tb/tb.v|
+!i113 0
+R9
+R1
+vTop
+R2
+!i10b 1
+!s100 cgRB]^CA6C0BghoDHGD]f1
+IR=ARAaaZBXD0WEUnR9J521
+R0
+R3
+8../Top.v
+F../Top.v
+!i122 1
+L0 7 8
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R1
+n@top
